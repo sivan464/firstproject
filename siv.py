@@ -1,4 +1,4 @@
 print("hello sivan from krishnagiri")
-a=150
-b=200
+a=1500
+b=2000
 print(a+b)  
